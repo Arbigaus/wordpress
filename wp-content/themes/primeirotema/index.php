@@ -1,1 +1,5 @@
-<h1>Meu primeiro tema</h1>
+<?php get_header(); ?>
+
+...
+
+<?php get_footer(); ?>

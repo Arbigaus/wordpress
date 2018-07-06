@@ -1,0 +1,14 @@
+body {
+	background-color:#B0BEC5;
+}
+.navbar-primary {
+	background-color: #B0BEC9;
+}
+.navbar-primary ul,
+.navbar-primary li {
+	list-style: none;
+	padding: 0;
+}
+.navbar-primary li {
+	display: inline;
+}
